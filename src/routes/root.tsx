@@ -20,7 +20,7 @@ function Root() {
   return (
     <div className="bg-gray-800 text-gray-50 h-screen max-w-3xl mx-auto flex flex-col xl:max-w-7xl">
       <header className="py-2 bg-gray-700 border-b-2 border-teal-400">
-        <h1 className="px-2 text-4xl font-black text-gross-50">
+        <h1 className="px-2 text-4xl font-black text-gross-50 ">
           Tailwind Intro
         </h1>
         <nav className="px-2 py-1 space-x-2 hidden md:block">
