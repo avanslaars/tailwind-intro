@@ -7,7 +7,7 @@ function Root() {
         <h1>Tailwind Intro</h1>
         <nav>
           <NavLink to="/">Home</NavLink>
-          <NavLink to="/about">about</NavLink>
+          <NavLink to="/about">About</NavLink>
         </nav>
       </header>
       <main>

@@ -1,10 +1,10 @@
 function About() {
   return (
     <div>
-      <h1>About</h1>
+      <h2>About</h2>
       <p>This is the about page</p>
 
-      <h2>Our History</h2>
+      <h3>Our History</h3>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita
         aliquam deserunt reiciendis delectus eius. Autem provident itaque
@@ -18,7 +18,7 @@ function About() {
         Inventore ducimus reiciendis hic!
       </p>
 
-      <h2>Some Other Stuff</h2>
+      <h3>Some Other Stuff</h3>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit
         voluptatibus neque rerum magnam et cupiditate pariatur deleniti quod at!

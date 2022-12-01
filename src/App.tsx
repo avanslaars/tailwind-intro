@@ -1,6 +1,6 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Root from './routes/root'
-import Home, { loader as homeLoader } from './routes/home'
+import Home from './routes/home'
 import About from './routes/about'
 
 const router = createBrowserRouter([
@@ -10,7 +10,6 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <Home />,
-        loader: homeLoader,
       },
       {
         path: 'about',
